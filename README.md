@@ -1,2 +1,4 @@
 # Javatutorial
-This is for my java assignments
+This is for my java assignments.
+-LAB ASSIGNMENT : 1
+
